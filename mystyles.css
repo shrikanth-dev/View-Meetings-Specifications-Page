@@ -1,0 +1,65 @@
+.container{
+    display: flex;
+    margin-left: 20px;
+    gap: 20px;
+
+}
+
+.dv2{
+    flex: 0 0 50%;
+    display: flex;
+
+}
+img{
+    height:500px;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    height: 470px;
+    padding: 20px;
+}
+
+h1{
+    color: rgb(8, 73, 58);;
+}
+
+p{
+font-family: system-ui;
+font-size: xx-large;
+}
+
+.dv4{
+    flex: 0 0 100%;
+}
+
+.btn{
+    padding: 10px;
+    color: white;
+     font-family: monospace;
+    font-size: x-large;
+    border-radius: 5px;
+    background-color: rgb(20, 66, 55);
+}
+
+@media (max-width: 760px) {
+ .container{
+    flex-wrap: wrap;
+    margin: 30px;
+ }
+
+     .dv2{
+    flex: 0 0 100%;
+}
+
+img{
+    flex: 0 0 100%;
+}
+
+.btn{
+padding: 15px 40px 15px 40px;
+border: 0px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+}
