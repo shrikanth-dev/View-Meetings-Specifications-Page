@@ -32,13 +32,12 @@ A responsive HTML + CSS landing section displaying meeting venue details with a 
 
 ### Screenshot
 
-![](./screenshots/results-summary-component-desktop-img.png)
-![](./screenshots/results-summary-component-mobile-img.png))
+![](image.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/shrikanth-dev/View-Meetings-Specifications-Page)
+- Live Site URL: [live site URL](https://shrikanth-dev.github.io/View-Meetings-Specifications-Page/)
 
 ### Built with
 
